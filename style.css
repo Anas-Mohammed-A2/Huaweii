@@ -1,0 +1,388 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+nav i{
+font-size: 30px;
+font-weight: bold;
+color: #ff0000;
+margin-left: 10px;
+}
+nav{
+position: fixed;
+width:100%;
+box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+body{
+          background-color: rgba(194, 191, 191, 0.25);
+}
+
+.Icons{
+          display: flex;
+          margin-left: 350px;
+}
+.navv a{
+          transition: all 0.5s ease;
+          margin-top: 10px;
+}
+.navv a:hover{
+border-bottom:3px solid rgb(253, 31, 31);
+transition: all 0.5s ease;
+}
+header{
+position: fixed;
+z-index: 999;
+width: 100%;
+top: 0px;
+}
+.carousel{
+margin-top: 80px;
+}
+.carousel img{
+width: 100%;
+height: 320%;
+}
+.di_1 {
+margin-top: 120px;
+}
+.di_1 p{
+color: gray;
+margin-bottom: 30px;
+
+}
+.btn-dark {
+background-color: #000000;
+padding: 13px 20px;
+border-radius: 30px;
+margin-top: 10px;
+}
+.di_1 h1{
+margin-bottom: 30px;
+}
+.di_1 h5{
+margin-bottom: 30px;
+
+}
+
+.HUAWEI_P50_Pro img{
+width: 80%;
+margin-top: 70px;
+
+}
+.HUAWEI_P50_Pro{
+background-color: #ffffff;
+
+}
+.div_1{
+display: flex;
+}
+.btn-outline-dark{
+          padding: 13px 20px;
+          border-radius: 30px;
+          margin-top: 10px;
+          margin-left: 15px;
+transition: all 0.5s ease;
+
+}
+.btn-outline-dark:hover{
+transition: all 0.5s ease;
+color: #000000;
+background-color: #ffffff;
+border: 3px solid rgba(0, 0, 0, 0.661);
+}
+.HUAWEI_MatePad_11 img{
+          width:100%;
+}
+.HUAWEI_MatePad_11{
+   margin-top: 70px;
+background-color: #ffffff;
+}
+.Div_2{
+margin-top: 30px;
+}
+.Div_2 p{
+          color: gray;
+          margin-bottom: 30px;
+          
+          }
+          .btn-dark {
+          background-color: #000000;
+          padding: 13px 20px;
+          border-radius: 30px;
+          margin-top: 10px;
+          }
+          .Div_2 h1{
+          margin-bottom: 30px;
+          }
+          .More{
+          margin-top: 100px;
+          background-color: white;
+          height: 100%;
+          }
+          .Di_1 h1{
+                    color: #000000;
+                    font-size: 60px;
+                    }
+                    .Di_1 h2{
+                    font-size: 40px;
+                    color: #000000d6;
+                              }
+                              .Di_2 img{
+                                        width: 100%;
+                                        height: 105%;
+                                        border-radius: 8px;
+                              }
+                              .Di_3{
+                                        margin-top: 100px;
+                              }
+                              .btn-dark{
+                                        margin-top: 30px;
+                              }
+                              .HUAWEI_Pocket h1{
+                                        text-align: center;
+padding-top: 150px;
+                              }
+                              .HUAWEI_Pocket p{
+                                        text-align: center;
+                                        margin-top: 15px;
+                                        color: gray;
+                                        font-size: 20px;
+                              }
+                              .HUAWEI_Pocket{
+                              margin-top: 100px;
+                              background-color: white;
+                              height: 1000px;
+                              border-radius: 8px;
+                              width: 450px;
+                              margin-left: 30px;
+
+                              }
+                              .HUAWEI_Pocket h5{
+                                        text-align: center;
+                                        margin-top: 15px;
+
+                              }
+                              .btn-outline-dark{
+                                        margin-top: 30px;
+
+                              }
+                              .divv_1{
+                              text-align: center;
+                              display: flex;
+                              justify-content: center;
+                              }
+                              .HUAWEI_Pocket img{
+                              width: 100%;
+                              margin-top: 100px;
+                              }
+                              
+                              .HUAWEI_P50 img{
+                                 width: 180px;
+                                 padding-left:20px;
+                                 padding-top: 40px;
+                              }
+                              .HUAWEI_P50{
+                                        background-color: white;
+                                        height: 480px;
+                                        border-radius: 8px;
+                                        width: 380px;
+                                        margin-left: 30px;
+                                        padding-left: 50px;
+                              margin-top: 100px;
+                              padding-top: 20px;
+margin-left: 20px;
+margin-right:  20px;
+margin-bottom: 20px;
+                              }
+
+                              .HUAWEI_P50 p{
+                                        margin-top: 15px;
+                                        color: gray;
+                                        padding-right: 5px;
+                              }
+                              .divv_2{
+                              display: flex;
+                              padding-top: 10px;
+                              }
+                              .divv_2 h6{
+                              margin-left: 15px;
+transition: all 0.5s ease;
+
+                              }
+                              .divv_2 h6:hover{
+                              color: #ff0000;
+                              font-size: 18px;
+transition: all 0.5s ease;
+
+                              }
+                              .Dii_2 h3{
+                                 color: #000000;
+                              
+                              }
+                              .Dii_2{
+                              margin-left: 30px;
+                              }
+                              .Dii_2 h5{
+                              margin-left: 10px;
+                              color: #000000;
+                              }
+
+                              .HUAWEI_Nova img{
+                                        width: 180px;
+                                        padding-left:20px;
+                                        padding-top: 40px;
+                                     }
+                                     .HUAWEI_Nova{
+                                               background-color: white;
+                                               height: 480px;
+                                               border-radius: 8px;
+                                               width: 380px;
+                                               margin-left: 30px;
+                                               padding-left: 50px;
+                                     margin-top: 20px;
+                                     padding-top: 20px;
+       
+                                     }
+       
+                                     .HUAWEI_Nova p{
+                                               margin-top: 15px;
+                                               color: gray;
+                                               padding-right: 5px;
+                                     }
+                                     .laptop{
+                                       margin-top: 100px;
+          background-color: white;
+height: 100%;
+                                       }
+                                       .Di_1 h1{
+                                                 color: #000000;
+                                                 font-size: 60px;
+                                                 }
+                                                 .Di_1 h2{
+                                                 font-size: 40px;
+                                                 color: #000000d6;
+                                                           }
+                                                           .Di_2 img{
+                                                                     width: 100%;
+                                                                     height: 105%;
+                                                                     border-radius: 8px;
+                                                           }
+                                                           .Di_3{
+                                                                     margin-top: 100px;
+                                                           }
+
+
+                                                           
+
+
+                                                           .matebook img{
+                                                            width: 190px;
+                                                            padding-left:20px;
+                                                            padding-top: 40px;
+                                                         }
+                                                         .matebook{
+                           display: flex;
+
+                                                                   background-color: white;
+                                                                   height: 480px;
+                                                                   border-radius: 8px;
+                                                                   width: 380px;
+                                                                   margin-left: 30px;
+                                                                   padding-left: 50px;
+                                                         margin-top: 100px;
+                                                         padding-top: 20px;
+                           margin-left: 20px;
+                           margin-right:  20px;
+                           margin-bottom: 20px;
+
+                                                         }
+                           
+                                                         .matebook p{
+                                                                   margin-top: 15px;
+                                                                   color: gray;
+padding-left: 50px;                                                                  }
+                                                         .divv_11{
+                                                         display: flex;
+                                                         padding-top: 10px;
+                                                         }
+                                                         .divv_11 h6{
+                                                         margin-left: 15px;
+                           transition: all 0.5s ease;
+                           
+                                                         }
+                                                         .divv_11 h6:hover{
+                                                         color: #ff0000;
+                                                         font-size: 18px;
+                           transition: all 0.5s ease;
+                           
+                                                         }
+                                                         .Dii_22 h3{
+                                                            color: #000000;
+margin-right:60px;
+                                                         }
+                                                         .Dii_22{
+                                                         margin-left: 30px;
+                                                         
+                                                      }
+                                                         .Dii_22 h5{
+                                                         margin-left: 10px;
+                                                         color: #000000;
+                                                         }
+                                                         .matebookk img{
+                                                            width: 190px;
+                                                            padding-left:20px;
+                                                            padding-top: 40px;
+                                                         }
+
+
+
+
+                                                         .matebookk{
+
+                                                                   background-color: white;
+                                                                   height: 480px;
+                                                                   border-radius: 8px;
+                                                                   width: 380px;
+                                                                   margin-left: 30px;
+                                                                   padding-left: 50px;
+                                                         margin-top: 20px;
+                                                         padding-top: 20px;
+                           margin-left: 20px;
+                           margin-right:  20px;
+                           margin-bottom: 20px;
+
+                                                         }
+                           
+                                                         .matebookk p{
+                                                                   margin-top: 15px;
+                                                                   color: gray;
+                                                                   padding-right: 5px;
+                                                         }
+
+
+
+
+
+
+.End_1 img{
+width: 100%;
+border-radius: 8px;
+}
+.end{
+   margin-top: 100px;
+}
+.Items{
+text-align: center;
+}
+.Items h1{
+color: #000000;
+margin-top: 15px;
+}
+.Items p{
+   color:gray;
+
+}
+.ends{
+margin-top: 200px;
+}
